@@ -4,7 +4,7 @@
 ---  
 
 ## 🔍 About Me  
-I'm an undergraduate Software Engineering student at Ankara Bilim University. I've been working on different areas such as web development, mobile/desktop application development, machine learning and artificial intelligence for several years. I like database design, actually do love designing in general. 
+I'm a Jr. Software Engineer. I've been working on different areas such as web development, mobile/desktop application development, machine learning and artificial intelligence for several years. I like database design, actually do love designing in general. 
 
 ---  
 
